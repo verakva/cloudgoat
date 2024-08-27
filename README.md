@@ -344,3 +344,5 @@ And lastly, thank you for contributing!
 ## Disclaimer
 
 CloudGoat is software that comes with absolutely no warranties whatsoever. By using CloudGoat, you take full responsibility for any and all outcomes that result.
+
+Do not taunt Happy Fun Ball.
